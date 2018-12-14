@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IntegracionNumArea", "IntegracionNumArea\IntegracionNumArea.vbproj", "{5120B0D2-8F71-4FD6-BB3F-0A77A89C9585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5120B0D2-8F71-4FD6-BB3F-0A77A89C9585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5120B0D2-8F71-4FD6-BB3F-0A77A89C9585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5120B0D2-8F71-4FD6-BB3F-0A77A89C9585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5120B0D2-8F71-4FD6-BB3F-0A77A89C9585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEDDB66E-8445-4BB9-90F8-4743DAFAE28D}
+	EndGlobalSection
+EndGlobal
